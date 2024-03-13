@@ -85,10 +85,11 @@ https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01
 
 
 
-5-Crie um novo trabalho de ML automatizado com as seguintes configurações, usando Avançar conforme necessário para progredir pela interface do usuário:
+5-Implantar e testar o modelo
+No  menu à esquerda, selecione Pontos de extremidade e abra o ponto de extremidade do seu modelo recém criado, clicar na aba 'Testar'
+![image](https://github.com/wesllanSilva/Lab-MachineLearning-Automatizado/assets/62728922/3e3a7221-bf74-46a4-8faf-5ea95165fc1b)
 
 
-Implantar e testar o modelo
 Na guia Modelo para obter o melhor modelo treinado pelo seu trabalho de aprendizado de máquina automatizado, selecione Implantar e usar a opção Serviço Web para implantar o modelo com as seguintes configurações:
 Nome: predict-rentals
 Descrição: Prever aluguéis de ciclos
@@ -99,10 +100,17 @@ Aguarde até que o status Implantar seja alterado para Bem-sucedido. Isso pode l
 Testar o serviço implantado
 Agora você pode testar seu serviço implantado.
 
-No estúdio do Aprendizado de Máquina do Azure, no menu à esquerda, selecione Pontos de extremidade e abra o ponto de extremidade em tempo real de aluguéis de previsão.
+.
 
 Na página de ponto de extremidade em tempo real de aluguéis de previsão, exiba a guia Teste.
 
-No painel Dados de entrada para testar o ponto de extremidade, substitua o modelo JSON pelos seguintes dados de entrada:
+No painel Dados de entrada para testar o ponto de extremidade, substitua o modelo JSON pelos dados de entrada indicados em https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html:
+
+![image](https://github.com/wesllanSilva/Lab-MachineLearning-Automatizado/assets/62728922/f192b91e-b986-4704-870d-558b85316695)
+
+O painel de teste pegou os dados de entrada e usou o modelo treinado para retornar o número previsto de aluguéis.
+![image](https://github.com/wesllanSilva/Lab-MachineLearning-Automatizado/assets/62728922/c7d1f7fd-a969-49db-a27d-f1561828bda5)
+
+Resumo de tudo. Usamos  um conjunto de dados de dados históricos de aluguel de bicicletas para treinar um modelo. O modelo prevê o número de aluguéis de bicicletas esperados em um determinado dia, com base em características sazonais e meteorológicas.
 
 
