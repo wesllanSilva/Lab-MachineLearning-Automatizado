@@ -109,8 +109,9 @@ No painel Dados de entrada para testar o ponto de extremidade, substitua o model
 ![image](https://github.com/wesllanSilva/Lab-MachineLearning-Automatizado/assets/62728922/f192b91e-b986-4704-870d-558b85316695)
 
 O painel de teste pegou os dados de entrada e usou o modelo treinado para retornar o número previsto de aluguéis.
-![image](https://github.com/wesllanSilva/Lab-MachineLearning-Automatizado/assets/62728922/c7d1f7fd-a969-49db-a27d-f1561828bda5)
+![image](https://github.com/wesllanSilva/Lab-MachineLearning-Automatizado/assets/62728922/1f5fb573-d576-4f42-b40e-318e4fc7bac7)
 
-Resumo de tudo. Usamos  um conjunto de dados de dados históricos de aluguel de bicicletas para treinar um modelo. O modelo prevê o número de aluguéis de bicicletas esperados em um determinado dia, com base em características sazonais e meteorológicas.
+
+<h2>Resumo de tudo. Usamos  um conjunto de dados de dados históricos de aluguel de bicicletas para treinar um modelo. O modelo prevê o número de aluguéis de bicicletas esperados em um determinado dia, com base em características sazonais e meteorológicas.</h2>
 
 
