@@ -104,7 +104,7 @@ Agora você pode testar seu serviço implantado.
 
 Na página de ponto de extremidade em tempo real de aluguéis de previsão, exiba a guia Teste.
 
-No painel Dados de entrada para testar o ponto de extremidade, substitua o modelo JSON pelos dados de entrada indicados em https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html:
+No painel Dados de entrada para testar o ponto de extremidade, substitua o modelo JSON pelos dados de entrada do arquivo JSON([Alugueis_Previsto.json](https://github.com/wesllanSilva/Lab-MachineLearning-Automatizado/blob/main/Alugueis_Previsto.json)). Ou se preferir os indicados em https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html:
 
 ![image](https://github.com/wesllanSilva/Lab-MachineLearning-Automatizado/assets/62728922/f192b91e-b986-4704-870d-558b85316695)
 
